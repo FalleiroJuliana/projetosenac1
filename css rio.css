@@ -13,3 +13,10 @@ h2{
     width: auto;
     height: auto;
 }   
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    margin: 15pt;
+    text-align: justify;
+    text-indent: 50px;
+}
