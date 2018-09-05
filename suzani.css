@@ -6,3 +6,12 @@ h1{
     text-shadow: 3px 3px 5px green;
     background-color: rgba(247, 204, 11, 0.39);
 }
+
+.fundo{ 
+    background-color: rgba(247, 204, 11, 0.39);
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
